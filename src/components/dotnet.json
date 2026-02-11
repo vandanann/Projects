@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "title": "Building distributed apps with .NET Aspire, RabbitMQ and Telemetry API",
+    "tag": ""
+  },
+  {
+    "id": "2",
+    "title": " Building To-do web apps with Blazor",
+    "tag": ""
+  },
+  {
+    "id": "3",
+    "title": "Building rich interactive components with Blazor web apps",
+    "tag": ""
+  },
+  {
+    "id": "4",
+    "title": "Building a Connect Four game with Blazor",
+    "tag": ""
+  },
+  {
+    "id": "5",
+    "title": "Create cloud-native apps and services with .NET and ASP.NET Core",
+    "tag": ".NET 8, ASP.NET Core, Azure Monitor, Azure Container Registry, Azure Kubernetes Service (AKS)"
+  },
+  {
+    "id": "6",
+    "title": "Building ASP.NET Core application with SignalR notifications",
+    "tag": ""
+  },
+  {
+    "id": "7",
+    "title": " Developing Booking application with React-Redux and Firebase",
+    "tag": ""
+  }
+]

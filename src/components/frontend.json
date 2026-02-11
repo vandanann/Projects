@@ -1,0 +1,48 @@
+[
+  {
+    "id": "1",
+    "title": "Build an AI Inventory Management SaaS App with Nextjs & MERN Stack"
+  },
+  {
+    "id": "2",
+    "title": "Building React Application with Webpack, Babel, ESLint, ReactDOM and BootStrap"
+  },
+  {
+    "id": "3",
+    "title": "Performing Unit Testing of .NET Applications with xUnit and Moq"
+  },
+  {
+    "id": "4",
+    "title": " Building a Server-Side-Rendered Community Feed  Using Next.js"
+  },
+  {
+    "id": "5",
+    "title": "Building a Personal Shopping List Application Using Context and Hooks"
+  },
+  {
+    "id": "6",
+    "title": " Building an Application with TDD architecture Using the React Testing Library and Cypress"
+  },
+  {
+    "id": "7",
+    "title": "Building a Full Stack E-Commerce Application with Next.js and GraphQL"
+  },
+  {
+    "id": "8",
+    "title": "Creating a Virtual Reality Application with React and Three.js"
+  },
+
+  {
+    "id": "9",
+    "title": "React.js billing app with pdf generator and React-Hook-Form"
+  },
+
+  {
+    "id": "10",
+    "title": "Creating Dashboard app with Real-time REST API "
+  },
+  {
+    "id": "11",
+    "title": "Perform Automated Testing with Jest and React Testing library "
+  }
+]

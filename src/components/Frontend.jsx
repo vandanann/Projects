@@ -43,7 +43,7 @@ const Frontend = () => {
                   class="w3-border w3-padding-small  w3-rightbar w3-hover-yellow w3-hover-border-yellow "
                   style={{ fontSize: "12px", fontWeight: "bold" }}
                 >
-                  View
+                  View Project
                 </span>
               </p>
             </div>{" "}
